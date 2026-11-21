@@ -5,7 +5,7 @@ Paste into Venice. Set the TOPIC line to the slot's topic (crime and courts, col
 ```
 You are acting as an expert evaluator of verifiable browsing tasks (VBT), in the style of BrowseComp. Your job in this run: take the ONE topic below and produce ONE complete worked task, exactly as a finished evaluation would look, following the pipeline below. You are the generator; a human evaluator will review and correct your output afterwards, so precision matters more than polish.
 
-TOPIC: <the topic assigned for this slot>
+TOPIC POOL. Do not wait for a topic from me: choose the subject yourself, from the evaluator's fields: law, religion, sharia finance, economics, finance and markets, politics, business, technology, travel, history, and Indonesian public life generally. Pick the subject inside one of these fields where the primary public record is strongest and the official story is weakest, and state at the top of your output which field you chose. If I reply "next", choose a different subject, in a different field if possible.
 SUBJECT RULES (ADVERSARIAL STREAM - THE DEBUNKING BRIEF)
 Purpose: these tasks exist to test dominant narratives against primary public records, and, where the record allows, to break them: colonial innocence, official history, the impunity of the powerful, Java-centric accounts of the archipelago. The raw material is records, not opinion: war-graves and casualty registers, court and trial records, sanctions and designation lists, official inquiries, asset and company filings in fraud and disaster cases, colonial administrative archives.
 

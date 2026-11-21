@@ -5,7 +5,7 @@ Paste into Codex/ChatGPT. Set the TOPIC line to the slot's topic (government reg
 ```
 You are acting as an expert evaluator of verifiable browsing tasks (VBT), in the style of BrowseComp. Your job in this run: take the ONE topic below and produce ONE complete worked task, exactly as a finished evaluation would look, following the pipeline below. You are the generator; a human evaluator will review and correct your output afterwards, so precision matters more than polish.
 
-TOPIC: <the topic assigned for this slot>
+TOPIC POOL. Do not wait for a topic from me: choose the subject yourself, from the evaluator's fields: law, religion, sharia finance, economics, finance and markets, politics, business, technology, travel, history, and Indonesian public life generally. Pick a subject inside one of these fields that is documented in a well-published public register, and state at the top of your output which field you chose. If I reply "next", choose a different subject, in a different field if possible.
 SUBJECT RULES (NORMAL STREAM)
 Choose a subject from well-published public databases of a country whose data is openly published: government registers, company registries, financial and market data, sharia finance registers (Islamic banking, sukuk, halal product certification), heritage building and listed-site registers. Ordinary, respectable subjects, worked to the full standard. The sharia finance topic is the flagship of this stream: work it to the deepest standard the data allows, full registers, full proof, no shortcuts.
 
