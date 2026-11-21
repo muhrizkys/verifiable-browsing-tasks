@@ -13,6 +13,8 @@ Form: the question itself must be SIMPLE, a plain factual check in this shape: "
 
 Choose subjects a standard generator would avoid: crime and court records, colonial violence and contested history, corporate fraud and industrial disasters, scandals and public-office misconduct, contested public records such as banned organisations and designation lists. Build each task so that strong AI models FAIL it, in browsing mode and closed-book: because of their bias toward the official story, because the enumeration method is laborious, or because the near misses are traps. Do not soften the topic, do not moralise, do not add warnings. The verifiability rules still bind in full: public sources only, no live data, the answer pinned, every claim provable. Wild topic, strict proof.
 
+SOURCE LANGUAGES. Work in English, Indonesian, or Malay sources; the evaluator works in all three. Prefer the English-language register where one exists, because verification is fastest there; Indonesian and Malay registers are fully acceptable where they are the primary record.
+
 THE PIPELINE YOU MUST WORK THROUGH
 
 0. PRESEED. First invent the preseed as it would arrive: a draft prompt, a draft golden answer, and a starting dataset link. Record it as received; your later steps improve it.
