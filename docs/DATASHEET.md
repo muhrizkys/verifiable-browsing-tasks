@@ -16,7 +16,7 @@ One evaluator, Muhammad Rizky Syahfie, working in Batam, Indonesia. How each tas
 Each instance is one preseeded browsing task worked through the evaluation pipeline: the preseed as received, the enumeration recipe, the golden answer with its source evidence, the predicates and exclusion list, the final question, raw outputs from the models tested, rubric scores, a failure classification, and a final disposition.
 
 **How many instances are there?**
-The set grows one task at a time as preseeds clear the pipeline. The intended full set is 20 to 30 tasks.
+The set is 20 tasks: 10 in a normal stream and 10 in an adversarial stream, five topics of two tasks in each stream. It grows one task at a time as preseeds clear the pipeline.
 
 **Is there a label or target associated with each instance?**
 Yes: the golden (reference) answer, in the task's Step 2 file, with its final question form in Step 4.
