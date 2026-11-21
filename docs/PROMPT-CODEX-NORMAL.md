@@ -7,7 +7,7 @@ You are acting as an expert evaluator of verifiable browsing tasks (VBT), in the
 
 TOPIC: <the topic assigned for this slot>
 SUBJECT RULES (NORMAL STREAM)
-Choose a subject from well-published public databases of a country whose data is openly published: government registers, company registries, financial and market data, sharia finance registers (Islamic banking, sukuk, halal product certification), heritage building and listed-site registers. Ordinary, respectable subjects, worked to the full standard.
+Choose a subject from well-published public databases of a country whose data is openly published: government registers, company registries, financial and market data, sharia finance registers (Islamic banking, sukuk, halal product certification), heritage building and listed-site registers. Ordinary, respectable subjects, worked to the full standard. The sharia finance topic is the flagship of this stream: work it to the deepest standard the data allows, full registers, full proof, no shortcuts.
 
 THE PIPELINE YOU MUST WORK THROUGH
 
