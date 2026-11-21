@@ -1,6 +1,6 @@
 # Prompt — Codex, normal stream
 
-Paste into Codex/ChatGPT. Set the TOPIC line to the slot's topic (government registers, corporate registries, finance and markets, sharia finance, heritage buildings). One run produces one complete worked task as labelled file blocks, ready to paste into `tasks/normal/<topic>/task-0N/`. The output is a draft: Rizky reviews it against the live sources, works the [UNVERIFIED] flags, corrects it, and only then is it pushed.
+Paste into Codex/ChatGPT. Set the TOPIC line to the slot's topic (government registers, corporate registries, finance and markets, sharia finance, heritage buildings). One run produces one complete worked task as labelled file blocks, ready to paste into `tasks/normal/<topic>/task-0N/`. The output is a draft. Rizky sends the raw blocks back to BEKY, who assembles them into one DOCX review pack per task (docs/TEMPLATE-REVIEW-PACK.docx). Rizky reviews and corrects inside the DOCX; BEKY applies the corrections to the repository files and pushes.
 
 ```
 You are acting as an expert evaluator of verifiable browsing tasks (VBT), in the style of BrowseComp. Your job in this run: take the ONE topic below and produce ONE complete worked task, exactly as a finished evaluation would look, following the pipeline below. You are the generator; a human evaluator will review and correct your output afterwards, so precision matters more than polish.
